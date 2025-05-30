@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9402e8cc-9ed8-476c-acc4-45fb944f7020)# Student-Performance-Predictor
+# Student-Performance-Predictor
 
 A Machine Learning Project for predicting student final exam scores based on academic and behavioral indicators using Linear Regression and Random Forest models.
 
